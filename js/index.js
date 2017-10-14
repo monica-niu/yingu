@@ -112,14 +112,14 @@ function change() {
         });
         $('.cum .col-sm-9').removeClass('dn');
         $('.cum .col-xs-12').addClass('col-sm-3').removeClass('col-xs-12');
-        $(".imgid").attr('src', 'images/bg2.png');
+        $(".imgid").attr('src', 'images/bg2.jpg');
 
         $('.team-swiper').css({
             'margin-top': '-375px',
             'opacity': '0'
         })
         $('.list-unstyled').removeClass('dn');
-        $(".mapimg").attr('src', 'images/map.png');
+        $(".mapimg").attr('src', 'images/map.jpg');
 
         $('.an1').removeClass('animation1');
         $('.an2').removeClass('animation2');
@@ -172,14 +172,14 @@ window.onresize = function() {
         });
         $('.cum .col-sm-9').removeClass('dn');
         $('.cum .col-xs-12').addClass('col-sm-3').removeClass('col-xs-12');
-        $(".imgid").attr('src', 'images/bg2.png');
+        $(".imgid").attr('src', 'images/bg2.jpg');
 
         $('.team-swiper').css({
             'margin-top': '-375px',
             'opacity': '0'
         })
         $('.list-unstyled').removeClass('dn');
-        $(".mapimg").attr('src', 'images/map.png');
+        $(".mapimg").attr('src', 'images/map.jpg');
          $('.an1').removeClass('animation1');
         $('.an2').removeClass('animation2');
         $('.an3').removeClass('animation3');
