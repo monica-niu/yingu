@@ -1,0 +1,51 @@
+.nav-bg{
+	background:rgba(0,0,0,0.6);
+	border-radius: 0;
+}
+.nav a{
+	color: #ffffff;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    color: #c3c002;
+    background-color: transparent;
+}
+
+
+
+.new-boxs{
+    width:154px;
+    height: 141px;
+    border: 1px solid #d2d2d2;
+    margin: auto;
+    cursor: pointer;
+    margin-top:10px; 
+}
+
+
+.news-container{
+	margin-bottom: 40px;
+}
+
+.new-box img{
+    width: 154px;
+    height: 141px;
+    background-size: 154px 141px;
+}
+.new-content{
+    text-align: center;
+    height: 40px;
+    width: 154px;
+    line-height: 40px;
+    position: absolute;
+    bottom: 0;
+    background: rgba(0,0,0,0.6);
+    color: #e2e2e2;
+
+}
+.modal-body img{
+    display: block;
+    margin:10px auto;
+    width: 80%;
+
+}
+
